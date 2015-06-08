@@ -50,61 +50,64 @@ namespace bcMapBC
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int bgimag = 2130837504;
+			public const int bclogo2 = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int campus = 2130837505;
+			public const int bgimag = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int golide = 2130837506;
+			public const int campus = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int Icon = 2130837507;
+			public const int golide = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int justnje = 2130837508;
+			public const int greybackground = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int monoandroidsplash = 2130837509;
+			public const int Icon = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int pic2 = 2130837510;
+			public const int justnje = 2130837510;
 			
 			// aapt resource value: 0x7f020007
-			public const int pic2bandw = 2130837511;
+			public const int pic2 = 2130837511;
 			
 			// aapt resource value: 0x7f020008
-			public const int sample_0 = 2130837512;
+			public const int pic2bandw = 2130837512;
 			
 			// aapt resource value: 0x7f020009
-			public const int sample_1 = 2130837513;
+			public const int sample_0 = 2130837513;
 			
 			// aapt resource value: 0x7f02000a
-			public const int sample_2 = 2130837514;
+			public const int sample_1 = 2130837514;
 			
 			// aapt resource value: 0x7f02000b
-			public const int sample_3 = 2130837515;
+			public const int sample_2 = 2130837515;
 			
 			// aapt resource value: 0x7f02000c
-			public const int sample_4 = 2130837516;
+			public const int sample_3 = 2130837516;
 			
 			// aapt resource value: 0x7f02000d
-			public const int sample_5 = 2130837517;
+			public const int sample_4 = 2130837517;
 			
 			// aapt resource value: 0x7f02000e
-			public const int sample_6 = 2130837518;
+			public const int sample_5 = 2130837518;
 			
 			// aapt resource value: 0x7f02000f
-			public const int sample_7 = 2130837519;
+			public const int sample_6 = 2130837519;
 			
 			// aapt resource value: 0x7f020010
-			public const int siteplan = 2130837520;
+			public const int sample_7 = 2130837520;
 			
 			// aapt resource value: 0x7f020011
-			public const int testbandw = 2130837521;
+			public const int siteplan = 2130837521;
 			
 			// aapt resource value: 0x7f020012
-			public const int testcolour = 2130837522;
+			public const int testbandw = 2130837522;
+			
+			// aapt resource value: 0x7f020013
+			public const int testcolour = 2130837523;
 			
 			static Drawable()
 			{
@@ -119,104 +122,143 @@ namespace bcMapBC
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060017
-			public const int Beta = 2131099671;
+			// aapt resource value: 0x7f05001a
+			public const int Beta = 2131034138;
 			
-			// aapt resource value: 0x7f060013
-			public const int COTTAGE = 2131099667;
+			// aapt resource value: 0x7f050016
+			public const int COTTAGE = 2131034134;
 			
-			// aapt resource value: 0x7f06001d
-			public const int Id_row = 2131099677;
+			// aapt resource value: 0x7f050026
+			public const int Contact = 2131034150;
 			
-			// aapt resource value: 0x7f06001f
-			public const int LastName_row = 2131099679;
+			// aapt resource value: 0x7f050020
+			public const int Id_row = 2131034144;
 			
-			// aapt resource value: 0x7f06001e
-			public const int Name_row = 2131099678;
+			// aapt resource value: 0x7f050022
+			public const int LastName_row = 2131034146;
 			
-			// aapt resource value: 0x7f06001c
-			public const int Shmg = 2131099676;
+			// aapt resource value: 0x7f050024
+			public const int Name = 2131034148;
 			
-			// aapt resource value: 0x7f060015
-			public const int adminOffice = 2131099669;
+			// aapt resource value: 0x7f050021
+			public const int Name_row = 2131034145;
 			
-			// aapt resource value: 0x7f06001b
-			public const int alpha = 2131099675;
+			// aapt resource value: 0x7f05001f
+			public const int Shmg = 2131034143;
 			
-			// aapt resource value: 0x7f06000e
-			public const int antwerp = 2131099662;
+			// aapt resource value: 0x7f050025
+			public const int Surname = 2131034149;
 			
-			// aapt resource value: 0x7f060011
-			public const int brussels = 2131099665;
+			// aapt resource value: 0x7f050005
+			public const int TextView02 = 2131034117;
 			
-			// aapt resource value: 0x7f060006
-			public const int button1 = 2131099654;
+			// aapt resource value: 0x7f050006
+			public const int TextView05 = 2131034118;
 			
-			// aapt resource value: 0x7f06000c
-			public const int caffeteria = 2131099660;
+			// aapt resource value: 0x7f050008
+			public const int TextView07 = 2131034120;
 			
-			// aapt resource value: 0x7f060020
-			public const int contentFrame = 2131099680;
+			// aapt resource value: 0x7f050018
+			public const int adminOffice = 2131034136;
 			
-			// aapt resource value: 0x7f060012
-			public const int delta = 2131099666;
+			// aapt resource value: 0x7f05001e
+			public const int alpha = 2131034142;
 			
-			// aapt resource value: 0x7f060009
-			public const int gama = 2131099657;
+			// aapt resource value: 0x7f050011
+			public const int antwerp = 2131034129;
 			
-			// aapt resource value: 0x7f06000b
-			public const int genk = 2131099659;
+			// aapt resource value: 0x7f050014
+			public const int brussels = 2131034132;
 			
-			// aapt resource value: 0x7f060005
-			public const int gridview = 2131099653;
+			// aapt resource value: 0x7f05002c
+			public const int btncontinue = 2131034156;
 			
-			// aapt resource value: 0x7f06000f
-			public const int hasselt = 2131099663;
+			// aapt resource value: 0x7f050009
+			public const int button1 = 2131034121;
 			
-			// aapt resource value: 0x7f060001
-			public const int id = 2131099649;
+			// aapt resource value: 0x7f05000f
+			public const int caffeteria = 2131034127;
 			
-			// aapt resource value: 0x7f060003
-			public const int last = 2131099651;
+			// aapt resource value: 0x7f05002d
+			public const int contentFrame = 2131034157;
 			
-			// aapt resource value: 0x7f06000a
-			public const int leuven = 2131099658;
+			// aapt resource value: 0x7f050015
+			public const int delta = 2131034133;
 			
-			// aapt resource value: 0x7f060018
-			public const int library = 2131099672;
+			// aapt resource value: 0x7f05000c
+			public const int gama = 2131034124;
 			
-			// aapt resource value: 0x7f060007
-			public const int linearLayout2 = 2131099655;
+			// aapt resource value: 0x7f05000e
+			public const int genk = 2131034126;
 			
-			// aapt resource value: 0x7f060004
-			public const int listItems = 2131099652;
+			// aapt resource value: 0x7f050007
+			public const int gridview = 2131034119;
 			
-			// aapt resource value: 0x7f060002
-			public const int name = 2131099650;
+			// aapt resource value: 0x7f050012
+			public const int hasselt = 2131034130;
 			
-			// aapt resource value: 0x7f060019
-			public const int omega = 2131099673;
+			// aapt resource value: 0x7f050001
+			public const int id = 2131034113;
 			
-			// aapt resource value: 0x7f06000d
-			public const int parking = 2131099661;
+			// aapt resource value: 0x7f050003
+			public const int last = 2131034115;
 			
-			// aapt resource value: 0x7f060016
-			public const int rep = 2131099670;
+			// aapt resource value: 0x7f05000d
+			public const int leuven = 2131034125;
 			
-			// aapt resource value: 0x7f060000
-			public const int shMsg = 2131099648;
+			// aapt resource value: 0x7f05001b
+			public const int library = 2131034139;
 			
-			// aapt resource value: 0x7f06001a
-			public const int sigma = 2131099674;
+			// aapt resource value: 0x7f05000a
+			public const int linearLayout2 = 2131034122;
 			
-			// aapt resource value: 0x7f060010
-			public const int theta = 2131099664;
+			// aapt resource value: 0x7f050004
+			public const int listItems = 2131034116;
 			
-			// aapt resource value: 0x7f060008
-			public const int ypsilon = 2131099656;
+			// aapt resource value: 0x7f050002
+			public const int name = 2131034114;
 			
-			// aapt resource value: 0x7f060014
-			public const int zetandthem = 2131099668;
+			// aapt resource value: 0x7f05001c
+			public const int omega = 2131034140;
+			
+			// aapt resource value: 0x7f050010
+			public const int parking = 2131034128;
+			
+			// aapt resource value: 0x7f050019
+			public const int rep = 2131034137;
+			
+			// aapt resource value: 0x7f050000
+			public const int shMsg = 2131034112;
+			
+			// aapt resource value: 0x7f05001d
+			public const int sigma = 2131034141;
+			
+			// aapt resource value: 0x7f050023
+			public const int textViewWelcome = 2131034147;
+			
+			// aapt resource value: 0x7f050013
+			public const int theta = 2131034131;
+			
+			// aapt resource value: 0x7f050027
+			public const int txtViewPassword = 2131034151;
+			
+			// aapt resource value: 0x7f05002a
+			public const int txtcontactno = 2131034154;
+			
+			// aapt resource value: 0x7f05002b
+			public const int txtemail = 2131034155;
+			
+			// aapt resource value: 0x7f050028
+			public const int txtname = 2131034152;
+			
+			// aapt resource value: 0x7f050029
+			public const int txtsurname = 2131034153;
+			
+			// aapt resource value: 0x7f05000b
+			public const int ypsilon = 2131034123;
+			
+			// aapt resource value: 0x7f050017
+			public const int zetandthem = 2131034135;
 			
 			static Id()
 			{
@@ -235,19 +277,28 @@ namespace bcMapBC
 			public const int about = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int grid = 2130903041;
+			public const int Entryscreen = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Main = 2130903042;
+			public const int grid = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int record_view = 2130903043;
+			public const int home = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int zxingscanneractivitylayout = 2130903044;
+			public const int Main = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int zxingscannerfragmentlayout = 2130903045;
+			public const int record_view = 2130903045;
+			
+			// aapt resource value: 0x7f030006
+			public const int Register = 2130903046;
+			
+			// aapt resource value: 0x7f030007
+			public const int zxingscanneractivitylayout = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int zxingscannerfragmentlayout = 2130903048;
 			
 			static Layout()
 			{
@@ -280,22 +331,6 @@ namespace bcMapBC
 			}
 			
 			private String()
-			{
-			}
-		}
-		
-		public partial class Style
-		{
-			
-			// aapt resource value: 0x7f050000
-			public const int Mono_Android_Theme_Splash = 2131034112;
-			
-			static Style()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Style()
 			{
 			}
 		}

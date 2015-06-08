@@ -43,16 +43,16 @@
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
     <Reference Include="zxing.monoandroid">
-      <HintPath>..\Components\zxing.net.mobile-1.4.7.2\lib\android\zxing.monoandroid.dll</HintPath>
+      <HintPath>..\..\..\..\..\Users\lizwimabecegmail.com\Documents\Projects\BCMAP\Components\zxing.net.mobile-1.4.7.2\lib\android\zxing.monoandroid.dll</HintPath>
     </Reference>
     <Reference Include="ZXing.Net.Mobile">
-      <HintPath>..\Components\zxing.net.mobile-1.4.7.2\lib\android\ZXing.Net.Mobile.dll</HintPath>
+      <HintPath>..\..\..\..\..\Users\lizwimabecegmail.com\Documents\Projects\BCMAP\Components\zxing.net.mobile-1.4.7.2\lib\android\ZXing.Net.Mobile.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Android.Support.v4">
       <HintPath>..\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll</HintPath>
     </Reference>
     <Reference Include="SQLite">
-      <HintPath>..\Components\sqlite-net-1.0.8.3\lib\android\SQLite.dll</HintPath>
+      <HintPath>..\..\..\..\..\Users\lizwimabecegmail.com\Documents\Projects\BCMAP\Components\sqlite-net-1.0.8.3\lib\android\SQLite.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -102,6 +102,24 @@
     <AndroidResource Include="Resources\layout-xlarge-notlong-port\Main.axml" />
     <AndroidResource Include="Resources\layout\Main.axml" />
     <AndroidResource Include="Resources\layout\grid.axml" />
+    <AndroidResource Include="Resources\layout\Entryscreen.axml" />
+    <AndroidResource Include="Resources\drawable-hdpi\greybackground.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\bclogo2.png" />
+    <AndroidResource Include="Resources\layout\home.axml" />
+    <AndroidResource Include="Resources\layout\Register.axml" />
+    <AndroidResource Include="Resources\layout-xlarge-long-port\Register.axml" />
+    <AndroidResource Include="Resources\layout-xlarge-notlong-port\Register.axml" />
+    <AndroidResource Include="Resources\layout-large-long-port\Register.axml" />
+    <AndroidResource Include="Resources\layout-large-notlong-port\Register.axml" />
+    <AndroidResource Include="Resources\layout-normal-notlong-port\Register.axml" />
+    <AndroidResource Include="Resources\layout-xlarge-long-port\Entryscreen.axml" />
+    <AndroidResource Include="Resources\layout-xlarge-notlong-port\Entryscreen.axml" />
+    <AndroidResource Include="Resources\layout-large-long-port\Entryscreen.axml" />
+    <AndroidResource Include="Resources\layout-large-notlong-port\Entryscreen.axml" />
+    <AndroidResource Include="Resources\layout-xlarge-long-port\home.axml" />
+    <AndroidResource Include="Resources\layout-xlarge-notlong-port\home.axml" />
+    <AndroidResource Include="Resources\layout-large-long-port\home.axml" />
+    <AndroidResource Include="Resources\layout-large-notlong-port\home.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
@@ -111,6 +129,10 @@
     </XamarinComponentReference>
     <XamarinComponentReference Include="zxing.net.mobile">
       <Version>1.4.7.2</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="sqlite-net">
+      <Version>1.0.8.3</Version>
       <Visible>False</Visible>
     </XamarinComponentReference>
   </ItemGroup>

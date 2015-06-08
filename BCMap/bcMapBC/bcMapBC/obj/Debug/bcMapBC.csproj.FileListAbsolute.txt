@@ -44,3 +44,6 @@ C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC\obj\Debug\res\layout\main.xml
 C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC\obj\Debug\res\layout\grid.xml
 C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC\obj\Debug\R.cs.flag
 C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC\obj\Debug\uploadflags.txt
+C:\BCMap\BCMap\BCMap\bcMapBC\bcMapBC\obj\Debug\bcMapBC.csprojResolveAssemblyReference.cache
+C:\BCMap\BCMap\BCMap\bcMapBC\bcMapBC\obj\Debug\bcMapBC.dll
+C:\BCMap\BCMap\BCMap\bcMapBC\bcMapBC\obj\Debug\bcMapBC.pdb

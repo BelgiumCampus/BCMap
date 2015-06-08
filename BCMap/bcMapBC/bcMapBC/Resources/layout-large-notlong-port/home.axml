@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:background="@android:color/darker_gray">
+    <ImageView
+        android:width="300dp"
+        android:height="350dp"
+        android:text="ORANGE"
+        android:layout_height="453.3dp"
+        android:background="@drawable/bclogo2"
+        android:textColor="#000"
+        android:id="@+id/TextView02"
+        android:layout_width="442.6dp"
+        android:layout_margin="30dp"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="65dp" />
+    <Button
+        android:text="CODE SCANNER"
+        android:textStyle="bold"
+        android:layout_height="38.4dp"
+        android:gravity="center"
+        android:textSize="8dp"
+        android:id="@+id/TextView05"
+        android:layout_width="433.7dp"
+        android:layout_marginBottom="130dp"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true" />
+    <Button
+        android:text="SEE POINTS"
+        android:textStyle="bold"
+        android:layout_height="35.0dp"
+        android:textSize="8dp"
+        android:id="@+id/TextView07"
+        android:layout_alignParentBottom="true"
+        android:layout_width="431.8dp"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="90dp" />
+    <Button
+        android:text="SEE MAP"
+        android:textStyle="bold"
+        android:layout_height="35.4dp"
+        android:textSize="8dp"
+        android:id="@+id/TextView07"
+        android:layout_alignParentBottom="true"
+        android:layout_width="432.1dp"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="48dp" />
+</RelativeLayout>
