@@ -1,0 +1,9 @@
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\bin\Debug\bcMapBC.UITests.dll
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\bin\Debug\bcMapBC.UITests.pdb
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\bin\Debug\nunit.framework.dll
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\bin\Debug\nunit.framework.xml
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\obj\Debug\bcMapBC.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\obj\Debug\bcMapBC.UITests.dll
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC.UITests\obj\Debug\bcMapBC.UITests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dev\Documents\Projects\bcMapBC\bcMapBC\bin\Debug\bcMapBC.dll
+C:\Users\Dev\Documents\Projects\bcMapBC\Components\sqlite-net-1.0.8.3\lib\android\SQLite.dll
+C:\Users\Dev\Documents\Projects\bcMapBC\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
+C:\Users\Dev\Documents\Projects\bcMapBC\Components\zxing.net.mobile-1.4.7.2\lib\android\zxing.monoandroid.dll
+C:\Users\Dev\Documents\Projects\bcMapBC\Components\zxing.net.mobile-1.4.7.2\lib\android\ZXing.Net.Mobile.dll

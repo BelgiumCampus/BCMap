@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <Button
+        android:text="Scan me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1" />
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:background="@drawable/siteplan"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:id="@+id/linearLayout2">
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="700dp"
+            android:layout_marginLeft="320dp"
+            android:id="@+id/ypsilon" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="420dp"
+            android:layout_marginLeft="88dp"
+            android:id="@+id/gama"
+            android:visibility="visible" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="410dp"
+            android:layout_marginLeft="210dp"
+            android:id="@+id/leuven"
+            android:visibility="visible" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="473dp"
+            android:layout_marginLeft="440dp"
+            android:id="@+id/genk"
+            android:visibility="visible" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="620dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/caffeteria"
+            android:visibility="visible" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="780dp"
+            android:layout_marginLeft="320dp"
+            android:id="@+id/parking"
+            android:visibility="visible" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="28dp"
+            android:id="@+id/antwerp" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="162dp"
+            android:id="@+id/hasselt" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="120dp"
+            android:layout_marginLeft="35dp"
+            android:id="@+id/alpha" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginLeft="35dp"
+            android:id="@+id/theta" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="320dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/brussels" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginLeft="120dp"
+            android:id="@+id/delta" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="260dp"
+            android:layout_marginLeft="320dp"
+            android:id="@+id/COTTAGE" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="240dp"
+            android:layout_marginLeft="460dp"
+            android:id="@+id/zetandthem" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="120dp"
+            android:layout_marginLeft="320dp"
+            android:id="@+id/adminOffice" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="85dp"
+            android:layout_marginLeft="545dp"
+            android:id="@+id/rep" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="340dp"
+            android:id="@+id/Beta" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="45dp"
+            android:layout_marginLeft="420dp"
+            android:id="@+id/library" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="730dp"
+            android:layout_marginLeft="160dp"
+            android:id="@+id/omega" />
+        <ImageView
+            android:src="@android:drawable/btn_star"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="680dp"
+            android:layout_marginLeft="140dp"
+            android:id="@+id/sigma" />
+    </RelativeLayout>
+</RelativeLayout>
