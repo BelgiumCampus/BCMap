@@ -96,7 +96,7 @@
         android:background="@android:color/white"
         android:paddingLeft="5dp" />
     <EditText
-        android:layout_margin="5dp"
+        android:layout_marginRight="5dp"
         android:layout_width="403.0dp"
         android:layout_height="91.4dp"
         android:paddingLeft="5dp"

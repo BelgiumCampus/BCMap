@@ -18,29 +18,29 @@
     <Button
         android:text="CODE SCANNER"
         android:textStyle="bold"
-        android:layout_height="38.4dp"
+        android:layout_height="99.0dp"
         android:gravity="center"
-        android:textSize="8dp"
+        android:textSize="16dp"
         android:id="@+id/TextView05"
         android:layout_width="565.8dp"
-        android:layout_marginBottom="130dp"
+        android:layout_marginBottom="250dp"
         android:layout_centerInParent="true"
         android:layout_alignParentBottom="true" />
     <Button
         android:text="SEE POINTS"
         android:textStyle="bold"
-        android:layout_height="35.0dp"
-        android:textSize="8dp"
+        android:layout_height="100.4dp"
+        android:textSize="16dp"
         android:id="@+id/TextView07"
         android:layout_alignParentBottom="true"
         android:layout_width="561.4dp"
         android:layout_centerInParent="true"
-        android:layout_marginBottom="90dp" />
+        android:layout_marginBottom="145dp" />
     <Button
         android:text="SEE MAP"
         android:textStyle="bold"
-        android:layout_height="35.4dp"
-        android:textSize="8dp"
+        android:layout_height="92.6dp"
+        android:textSize="16dp"
         android:id="@+id/TextView07"
         android:layout_alignParentBottom="true"
         android:layout_width="562.2dp"
