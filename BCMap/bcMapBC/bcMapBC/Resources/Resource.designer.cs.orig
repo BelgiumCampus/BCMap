@@ -50,22 +50,22 @@ namespace bcMapBC
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int bgimag = 2130837504;
+			public const int bclogo2 = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int campus = 2130837505;
+			public const int bgimag = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int golide = 2130837506;
+			public const int campus = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int Icon = 2130837507;
+			public const int golide = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int justnje = 2130837508;
+			public const int greybackground = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int pic2 = 2130837509;
+			public const int monoandroidsplash = 2130837509;
 			
 			// aapt resource value: 0x7f020006
 			public const int pic2bandw = 2130837510;
@@ -103,6 +103,9 @@ namespace bcMapBC
 			// aapt resource value: 0x7f020011
 			public const int testcolour = 2130837521;
 			
+			
+			// aapt resource value: 0x7f020013
+			public const int testcolour = 2130837523;
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -212,8 +215,47 @@ namespace bcMapBC
 			// aapt resource value: 0x7f050008
 			public const int ypsilon = 2131034120;
 			
-			// aapt resource value: 0x7f050014
-			public const int zetandthem = 2131034132;
+			// aapt resource value: 0x7f060014
+			public const int zetandthem = 2131099668;
+			
+			// aapt resource value: 0x7f050010
+			public const int parking = 2131034128;
+			
+			// aapt resource value: 0x7f050019
+			public const int rep = 2131034137;
+			
+			// aapt resource value: 0x7f050000
+			public const int shMsg = 2131034112;
+			
+			// aapt resource value: 0x7f05001d
+			public const int sigma = 2131034141;
+			
+			// aapt resource value: 0x7f050023
+			public const int textViewWelcome = 2131034147;
+			
+			// aapt resource value: 0x7f050013
+			public const int theta = 2131034131;
+			
+			// aapt resource value: 0x7f050027
+			public const int txtViewPassword = 2131034151;
+			
+			// aapt resource value: 0x7f05002a
+			public const int txtcontactno = 2131034154;
+			
+			// aapt resource value: 0x7f05002b
+			public const int txtemail = 2131034155;
+			
+			// aapt resource value: 0x7f050028
+			public const int txtname = 2131034152;
+			
+			// aapt resource value: 0x7f050029
+			public const int txtsurname = 2131034153;
+			
+			// aapt resource value: 0x7f05000b
+			public const int ypsilon = 2131034123;
+			
+			// aapt resource value: 0x7f050017
+			public const int zetandthem = 2131034135;
 			
 			static Id()
 			{
@@ -232,19 +274,28 @@ namespace bcMapBC
 			public const int about = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int grid = 2130903041;
+			public const int Entryscreen = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Main = 2130903042;
+			public const int grid = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int record_view = 2130903043;
+			public const int home = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int zxingscanneractivitylayout = 2130903044;
+			public const int Main = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int zxingscannerfragmentlayout = 2130903045;
+			public const int record_view = 2130903045;
+			
+			// aapt resource value: 0x7f030006
+			public const int Register = 2130903046;
+			
+			// aapt resource value: 0x7f030007
+			public const int zxingscanneractivitylayout = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int zxingscannerfragmentlayout = 2130903048;
 			
 			static Layout()
 			{
@@ -277,6 +328,22 @@ namespace bcMapBC
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f050000
+			public const int Mono_Android_Theme_Splash = 2131034112;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
 			{
 			}
 		}
